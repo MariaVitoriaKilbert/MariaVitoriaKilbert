@@ -16,7 +16,7 @@
 &nbsp;<a href="https://www.linkedin.com/in/maria-vit%C3%B3ria-kilbert-1b082b227?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="[https://www.instagram.com/_llucaslleall/](https://www.instagram.com/mvk.03?stkn=dm10bm8yaXE3cmw0&utm_source=qr)">
+&nbsp;<a href="https://www.instagram.com/mvk.03?stkn=dm10bm8yaXE3cmw0&utm_source=qr">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
 
